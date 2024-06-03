@@ -125,14 +125,3 @@ print(flag)  # Output: True
 list_str = ["apple", "banana", "cherry"]
 joined_str = "-".join(list_str)
 print(joined_str)  # Output: apple-banana-cherry
-
-
-
-
-
-
-
-
-
-
-
